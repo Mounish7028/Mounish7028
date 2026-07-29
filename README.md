@@ -215,4 +215,32 @@ Serverless multilingual document translation with a secure, event-driven, fault-
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+  ## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Mounish7028">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mounish-reddy-bijjamula-398b3024b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:bijjamulamounish2003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+### 💬 Open to
+
+- AI Engineering
+- GenAI
+- Agentic AI
+- Cloud Engineering
+- Full-Stack Development
+- Open Source Collaboration
+
+
 </div>
