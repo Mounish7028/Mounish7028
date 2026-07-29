@@ -19,7 +19,42 @@
 </td>
 </tr>
 </table>
+## 🚀 About Me
 
+<img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+I'm **Bijjamula Mounish Reddy**, an **AI Engineer at NexusIQ Solutions**, passionate about designing intelligent systems that solve real-world problems.
+
+I specialize in building **production-grade Multi-Agent AI applications**, **RAG pipelines**, and **LLM-powered software** using **LangGraph, FastAPI, React, ChromaDB, AWS, Azure**, and modern AI frameworks.
+
+### 🔭 Currently Working On
+
+- ⚖️ Intelligent Legal Clause Extractor
+- 🤖 Multi-Agent AI Systems
+- 📚 Enterprise RAG Applications
+- ☁️ AWS AI & Cloud Solutions
+- 🧠 LegalBERT Research
+
+### 🌱 Currently Learning
+
+- Azure AI Foundry
+- MCP (Model Context Protocol)
+- MLOps
+- Kubernetes
+- Distributed AI Agents
+
+### 💡 My Interests
+
+- Agentic AI
+- LLM Engineering
+- Prompt Engineering
+- AI Security
+- Full Stack Development
+- Cloud Computing
+
+> *"I enjoy building AI systems that don't just generate answers—they reason, collaborate, and solve real-world problems."*
+
+<br clear="right"/>
 <br/>
 
 <div align="center">
