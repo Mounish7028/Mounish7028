@@ -179,7 +179,13 @@ Serverless multilingual document translation with a secure, event-driven, fault-
 </div>
 
 <br/>
+## 🏆 GitHub Trophies
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mounish7028&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+<br/>
 ## 📊 GitHub Analytics
 
 <div align="center">
