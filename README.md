@@ -6,9 +6,7 @@
 
 <table width="100%">
 <tr>
-<td width="180" align="center">
-<img src="assets/profile.jpg" width="150" height="150" style="border-radius:50%;object-fit:cover;border:3px solid #00d9ff;" alt="Mounish Reddy"/>
-</td>
+
 <td>
 
 <h1 align="left">Hello, I'm Mounish Reddy 👋</h1>
