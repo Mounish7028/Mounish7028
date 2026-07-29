@@ -20,12 +20,7 @@
 </tr>
 </table>
 
-
-🚀 About Me
-
 <img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
-I'm **Bijjamula Mounish Reddy**, an **AI Engineer at NexusIQ Solutions**, passionate about designing intelligent systems that solve real-world problems.
 
 I specialize in building **production-grade Multi-Agent AI applications**, **RAG pipelines**, and **LLM-powered software** using **LangGraph, FastAPI, React, ChromaDB, AWS, Azure**, and modern AI frameworks.
 
