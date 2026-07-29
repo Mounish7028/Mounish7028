@@ -82,6 +82,23 @@ I specialize in building **production-grade Multi-Agent AI applications**, **RAG
 
 <br/>
 
+
+<br/>
+
+## ⚡ Current Focus
+
+- 🤖 Building Production-Ready Multi-Agent AI Systems
+- ⚖️ Legal AI & Contract Intelligence
+- ☁️ AWS & Azure Cloud AI Solutions
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🚀 FastAPI Microservices
+- 🚀 Model Context Protocols (MCP)
+- 🔍 Prompt Engineering
+- 🛡 AI Guardrails
+- 🧠 LLM Orchestration
+
+<br/>
+
 ## 💼 Experience
 
 <table>
