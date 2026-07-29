@@ -189,7 +189,7 @@ Serverless multilingual document translation with a secure, event-driven, fault-
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mounish7028&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff"/>
+[<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mounish7028&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff"/>](https://github-readme-activity-graph.vercel.app/graph?username=Mounish7028&theme=tokyo-night)
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounish7028&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff"/>
 </div>
 
