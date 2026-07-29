@@ -20,6 +20,7 @@
 </tr>
 </table>
 
+
 🚀 About Me
 
 <img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
@@ -178,22 +179,7 @@ Serverless multilingual document translation with a secure, event-driven, fault-
 
 </div>
 
-<br/>
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mounish7028&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
-<br/>
-## 📊 GitHub Analytics
-
-<div align="center">
-[<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mounish7028&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff"/>](https://github-readme-activity-graph.vercel.app/graph?username=Mounish7028&theme=tokyo-night)
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounish7028&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff"/>
-</div>
-
-<br/>
 
 ## 📜 Certifications
 
@@ -215,7 +201,9 @@ Serverless multilingual document translation with a secure, event-driven, fault-
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
-  ## 🤝 Connect With Me
+
+  
+🤝 Connect With Me
 
 <p align="center">
 
@@ -233,14 +221,6 @@ Serverless multilingual document translation with a secure, event-driven, fault-
 
 </p>
 
-### 💬 Open to
-
-- AI Engineering
-- GenAI
-- Agentic AI
-- Cloud Engineering
-- Full-Stack Development
-- Open Source Collaboration
-
+> *"Turning intelligence into software..."*
 
 </div>
